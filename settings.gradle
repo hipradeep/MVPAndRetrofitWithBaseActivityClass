@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MVP And Retrofit with BaseActivity Class"
